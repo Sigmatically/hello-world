@@ -1,0 +1,2 @@
+# About
+Following along with FreeCodeCamp, this project teaches the basics of Git and GitHub. It is a bit of a review for me but always happy to go over such an important piece of software and collaboration site.
